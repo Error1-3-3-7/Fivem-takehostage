@@ -4,4 +4,4 @@ Fivem Script to take someone hostage, this can be added to a Radialmenu, or by a
 
 Nothing special, and i wont give support for this.
 
-#uid#8612
+# uid#8612
